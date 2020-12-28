@@ -382,11 +382,12 @@
 	#menu .current_page_item a
 	{
 		background: #009E2D;
+		border-radius: 15ex;
 		color: #FFF;
 	}
 	
 	#menu .icon
-	{
+	{	
 	}
 
 /*********************************************************************************/
@@ -397,7 +398,7 @@
 	{
 		overflow: hidden;
 		padding: 7em 0em 5em 0em;
-		background: #202020;
+		background-image: url(image/background.jpg);
 		background-size: cover;
 		text-align: center;
 		color: rgba(255,255,255,.8);
@@ -421,6 +422,7 @@
 	
 	#banner .button
 	{
+		border-radius: 15ex;
 		margin-top: 3em;
 		background: #009E2D !important;
 	}
