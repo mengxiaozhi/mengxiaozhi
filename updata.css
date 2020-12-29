@@ -2,6 +2,8 @@
 {  
     font-size: 3.5ex;
     text-align:center;
+    background-color: #FFF;
+    background-size: cover;
 }
 .updatalog
 {
@@ -27,8 +29,22 @@
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: 400;
-	font-size: 1em;
+	font-size: 0.7em;
 	color: #FFF;
+}
+.button3
+{
+    display: inline-block;
+	border-radius: 15ex;
+	padding: 0em 3em;
+	background: #009E2D;
+	letter-spacing: 0.20em;
+	line-height: 4em;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 0.7em;
+    color: #FFF;
 }
 .title3
 {  
