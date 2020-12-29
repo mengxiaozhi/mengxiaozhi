@@ -5,7 +5,7 @@
 }
 .updatalog
 {
-    text-indent: 45em;
+    text-indent: 25em;
     line-height: 35px;
     background-color: #009E2D;
     text-align:left
@@ -14,4 +14,26 @@
 {
     text-align: center;
     line-height: 5px;
+}
+
+.button2
+{
+    display: inline-block;
+	border-radius: 15ex;
+	padding: 0em 3em;
+	background: #009e69;
+	letter-spacing: 0.20em;
+	line-height: 4em;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1em;
+	color: #FFF;
+}
+.title3
+{  
+    color: #FFF;
+    text-indent:13.2ex;
+    font-size: 7ex;
+    text-align:left;
 }

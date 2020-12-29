@@ -185,6 +185,7 @@
 	.button
 	{
 		display: inline-block;
+		border-radius: 15ex;
 		padding: 0em 3em;
 		background: #009E2D;
 		letter-spacing: 0.20em;
