@@ -1,10 +1,17 @@
 .title2
-{
-    background-color: aliceblue;
-    background-size: cover;
-    text-align-last: center;
+{  
+    font-size: 3.5ex;
+    text-align:center;
 }
 .updatalog
 {
-    
+    text-indent: 45em;
+    line-height: 35px;
+    background-color: #009E2D;
+    text-align:left
+}
+.banquan
+{
+    text-align: center;
+    line-height: 5px;
 }
