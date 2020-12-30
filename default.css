@@ -569,6 +569,29 @@
 		text-align: center;
 		font-size: 3em;
 	}
-
+.fengji
+{
+	position: absolute;
+	left: 65ex;
+	top: 1825px;
+}
+.fengji2
+{
+	position: absolute;
+	right: 45ex;
+	top: 1825px;
+}
+.fengji1
+{
+	position: absolute;
+	left: 45ex;
+	top: 1825px;
+}
+.fengji4
+{
+	position: absolute;
+	right: 75ex;
+	top: 1818px;
+}
 
 
