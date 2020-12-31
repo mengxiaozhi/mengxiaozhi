@@ -7,9 +7,9 @@
 }
 .updatalog
 {
-    text-indent: 25em;
+	text-indent: 25em;
+	color:aliceblue;
 	line-height: 35px;
-	color: aliceblue;
 	overflow: hidden;
 	padding: 5em 0em;
     background: #009E2D;
