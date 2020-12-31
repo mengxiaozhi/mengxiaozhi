@@ -8,14 +8,18 @@
 .updatalog
 {
     text-indent: 25em;
-    line-height: 35px;
-    background-color: #009E2D;
-    text-align:left
+	line-height: 35px;
+	color: aliceblue;
+	overflow: hidden;
+	padding: 5em 0em;
+    background: #009E2D;
+	text-align:left
 }
 .banquan
 {
     text-align: center;
-    line-height: 5px;
+	line-height: 5px;
+	background: #FFF;
 }
 
 .button2
