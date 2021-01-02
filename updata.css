@@ -6,14 +6,9 @@
     background-size: cover;
 }
 .updatalog
-{
-	text-indent: 25em;
-	color:aliceblue;
-	line-height: 35px;
-	overflow: hidden;
-	padding: 5em 0em;
-    background: #009E2D;
-	text-align:left
+{   
+background-color: #009E2D;
+text-align: left;
 }
 .banquan
 {
