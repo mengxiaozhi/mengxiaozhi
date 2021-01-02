@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+    border-radius: 15ex;
+    color: #FFF;;
+}
+.text{
+    text-align: center;
+    font-size: 45px;
+}
