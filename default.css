@@ -184,17 +184,17 @@
 
 	.button
 	{
-		display: inline-block;
-		border-radius: 15ex;
-		padding: 0em 3em;
-		background: #009E2D;
-		letter-spacing: 0.20em;
 		line-height: 4em;
 		text-decoration: none;
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 1em;
 		color: #FFF;
+		display: inline-block;
+		border-radius: 15ex;
+		padding: 0em 3em;
+		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+		letter-spacing: 0.20em;
 	}
 	
 	.button:before
@@ -382,15 +382,29 @@
 	
 	#menu .current_page_item a
 	{
-		background: #009E2D;
+		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
 		border-radius: 15ex;
 		color: #FFF;
+		z-index: 1;
 	}
 	
 	#menu .icon
 	{	
 	}
 
+	.current_page_item::before
+	{
+		content:"";
+		position:absolute;
+		left: -5px;
+		right: -5px;
+		top: -5px;
+		bottom: -5px;
+		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+		border-radius: 15ex;
+		filter: blur(5px);
+		z-index: -1;
+	}
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
@@ -399,7 +413,8 @@
 	{
 		overflow: hidden;
 		padding: 7em 0em 5em 0em;
-		background-image: url(image/background.jpg);
+		background-image: url(image/Pixels_3.jpg);
+		top: 50%;
 		background-size: cover;
 		text-align: center;
 		color: rgba(255,255,255,.8);
@@ -425,7 +440,7 @@
 	{
 		border-radius: 15ex;
 		margin-top: 3em;
-		background: #009E2D !important;
+		background: linear-gradient(135deg, #009E2D,#0C834F,#186871) !important;
 	}
 
 /*********************************************************************************/
@@ -501,7 +516,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background: #009E2D;
+		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
 		color: rgba(255,255,255,.8);
 		text-align: center;
 	}
@@ -573,13 +588,17 @@
 {
 	position: absolute;
 	left: 65ex;
+	right: 30ex;
 	top: 1825px;
+	bottom: 10px;
 }
 .fengji2
 {
 	position: absolute;
-	right: 65ex;
+	right:170ex;
+	left: 170ex;
 	top: 1825px;
+	bottom: 10px;
 }
 .fengji1
 {

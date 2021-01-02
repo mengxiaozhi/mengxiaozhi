@@ -7,7 +7,11 @@
 }
 .updatalog
 {   
-background-color: #009E2D;
+	overflow: hidden;
+	padding: 5em 0em;
+	background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+	color: aliceblue;
+	text-align:left;
 }
 .banquan
 {
@@ -35,14 +39,28 @@ background-color: #009E2D;
     display: inline-block;
 	border-radius: 15ex;
 	padding: 0em 3em;
-	background: #009E2D;
+	background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
 	letter-spacing: 0.20em;
 	line-height: 4em;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: 400;
 	font-size: 0.7em;
-    color: #FFF;
+	color: #FFF;
+	z-index: 1;
+}
+.button3::before
+{
+	content:"";
+	position:absolute;
+	left: -5px;
+	right: -5px;
+	top: -5px;
+	bottom: -5px;
+	background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+	border-radius: 15ex;
+	filter: blur(20px);
+	z-index: -1;
 }
 .title3
 {  
