@@ -193,7 +193,10 @@
 		display: inline-block;
 		border-radius: 15ex;
 		padding: 0em 3em;
-		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+		border-radius: 46px;
+        background: linear-gradient(145deg, #008e29, #00a930);
+        box-shadow:  8px 8px 22px #006f20,
+                    -8px -8px 22px #00cd3b;
 		letter-spacing: 0.20em;
 	}
 	
@@ -382,7 +385,10 @@
 	
 	#menu .current_page_item a
 	{
-		background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+		border-radius: 46px;
+        background: linear-gradient(145deg, #008e29, #00a930);
+        box-shadow:  8px 8px 22px #006f20,
+                    -8px -8px 22px #00cd3b;
 		border-radius: 15ex;
 		color: #FFF;
 		z-index: 1;
@@ -441,7 +447,10 @@
 	{
 		border-radius: 15ex;
 		margin-top: 3em;
-		background: linear-gradient(135deg, #009E2D,#0C834F,#186871) !important;
+		border-radius: 46px;
+        background: linear-gradient(145deg, #008e29, #00a930);
+        box-shadow:  8px 8px 22px #006f20,
+                    -8px -8px 22px #00cd3b;
 	}
 
 /*********************************************************************************/

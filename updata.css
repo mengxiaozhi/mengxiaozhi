@@ -25,7 +25,10 @@
     display: inline-block;
 	border-radius: 15ex;
 	padding: 0em 3em;
-	background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+	border-radius: 46px;
+	background: linear-gradient(145deg, #008e29, #00a930);
+	box-shadow:  8px 8px 22px #006f20,
+				-8px -8px 22px #00cd3b;
 	letter-spacing: 0.20em;
 	line-height: 4em;
 	text-decoration: none;
@@ -39,7 +42,10 @@
     display: inline-block;
 	border-radius: 15ex;
 	padding: 0em 3em;
-	background: linear-gradient(135deg, #009E2D,#0C834F,#186871);
+	border-radius: 46px;
+	background: linear-gradient(145deg, #008e29, #00a930);
+	box-shadow:  8px 8px 22px #006f20,
+				-8px -8px 22px #00cd3b;
 	letter-spacing: 0.20em;
 	line-height: 4em;
 	text-decoration: none;
