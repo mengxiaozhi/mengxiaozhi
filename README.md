@@ -1,8 +1,10 @@
-## 关于我
-高中生，无技术力
+# 普通奇怪的人
 
-Blog:https://mengxiaozhi.galigali.club  
-Twitter:mengxiaozhi3
+### 我會的東西
+Html5 JavaScript Vue.js PHP Mysql<br>
+Wordpress Hexo Hugo<br>
 
-![](https://github-readme-stats.vercel.app/api?username=mengxiaozhi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxiaozhi)](https://github.com/mengxiaozhi/github-readme-stats)
+### 怎么找到我
+**萌小志のBlog**[https://mengxiaozhi.galigali.club/](https://mengxiaozhi.galigali.club/)<br>
+**Twitter(X.com)**[@Mengxiaozhi](https://twitter.com/Mengxiaozhi)<br>
+**Email**[mengxiaozhi@galigali.club](mailto:mengxiaozhi@galigali.club)
